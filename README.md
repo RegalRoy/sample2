@@ -1,7 +1,7 @@
 # sample2 update from main git clis
 
 ## subheader update from github remote 2
-## subheader update from github remote 3_UPDATE
+## subheader update from github remote 
 
 more text
 
