@@ -1,6 +1,6 @@
 # sample2 update from main git clis
 
-## subheader
+## subheader update from github remote
 
 more text
 
