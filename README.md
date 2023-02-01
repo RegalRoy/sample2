@@ -1,10 +1,10 @@
 # sample2 update from main git clis
 
-## subheader update from github remote
+## subheader
 
 more text
 
-## Local Dev Update From GitHub
+## Local Dev
 
 1. Open file 1
 
